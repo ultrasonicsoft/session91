@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements xmlns="http://schemas.microsoft.com/AspNet/AdRotator-Schedule-File">
+  <Ad>
+    <ImageUrl>~/advertisements/iphone.jpg</ImageUrl>
+    <NavigateUrl>https://www.apple.com/</NavigateUrl>
+    <AlternateText>Adv1</AlternateText>
+    <Impressions>20</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/advertisements/pixel.jpg</ImageUrl>
+    <NavigateUrl>http://www.google.com</NavigateUrl>
+    <AlternateText>Adv2</AlternateText>
+    <Impressions>35</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/advertisements/samsung.jpg</ImageUrl>
+    <NavigateUrl>http://www.samsung.com</NavigateUrl>
+    <AlternateText>Adv3</AlternateText>
+    <Impressions>25</Impressions>
+  </Ad>
+</Advertisements>
